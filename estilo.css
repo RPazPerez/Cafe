@@ -153,7 +153,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#dfc286', end
 
 }
 body{
-  background-color: red;
+  background-color: #0C545C;
 }
 #contenido{
   width: 100%;
@@ -161,7 +161,7 @@ body{
   position: absolute;
 }
 p{
-  font-size: 12px;
+  font-size: 20px;
   text-align: justify;
   margin-left: 30px;
   margin-right: 30px;
